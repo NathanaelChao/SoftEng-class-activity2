@@ -3,6 +3,6 @@
 
 class Kitty {
     void Kitty(){
-        printf("Kitty cat!")
+        printf("test chao")
     }
  };
